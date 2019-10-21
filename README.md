@@ -25,7 +25,7 @@ implementation 'com.github.qzc0537:SuperBottomSheet:latestVersion'
 ```
 
 3.愉快的使用：
-```
+```kotlin
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
